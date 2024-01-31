@@ -59,7 +59,7 @@ contributors constituted 53.59% of the total attrition count, with an overall ra
 **Attrition with regard to department**: In Research & Development, the highest attrition count reached 133, exceeding Human Resources by 1,008.33% with the lowest count at
 12. Research & Development contributed 56.12% to the total attrition count, followed by Sales with 92 and Human Resources with 12.
 
-**ttrition patterns associated with business travel**: In the "Rarely" category, the highest attrition count was 156, surpassing "Non-Travel" by 1,200.00% with the lowest count at 12. "Rarely" contributed 65.82% to the total attrition count, followed by "Frequently" with 69 and "Non-Travel" with 12.
+**Attrition patterns associated with business travel**: In the "Rarely" category, the highest attrition count was 156, surpassing "Non-Travel" by 1,200.00% with the lowest count at 12. "Rarely" contributed 65.82% to the total attrition count, followed by "Frequently" with 69 and "Non-Travel" with 12.
 
 
 **SUMMARY**
