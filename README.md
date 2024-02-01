@@ -26,6 +26,7 @@ and the results will be presented in a comprehensive report using a variety of d
 
 
 **DATA CLEANING**
+
 Checking for Duplicates
 In the process of data cleaning for the HR dataset, no duplicates were identified.
 
