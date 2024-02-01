@@ -41,8 +41,11 @@ Values in the Job Satisfaction and Work-Life Balance columns underwent changes t
 
 
 **ANALYSIS**
+
 SUMMARY STATISTICS
+
 <> A Total of 1,233 Employees left BENX company. out of 1,470 Employee
+
 <> BEMX had a total of 237 Number of Attrition
 
 **Attrition based on Job Roles**: At 62, Laboratory Technician had the highest Sum of attrition count and was 3,000.00% higher than Research Director, which had the lowest Sum of attrition count at 2.﻿﻿ ﻿﻿﻿﻿﻿Laboratory Technician accounted for 26.16% of Sum of attrition count.﻿﻿ ﻿﻿ ﻿﻿Across all 9 Job Role, Sum of attrition count ranged from 2 to 62.﻿﻿ ﻿﻿ ﻿
