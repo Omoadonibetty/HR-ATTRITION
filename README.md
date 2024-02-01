@@ -27,16 +27,16 @@ and the results will be presented in a comprehensive report using a variety of d
 
 **DATA CLEANING**
 
-Checking for Duplicates
+**Checking for Duplicates**
 In the process of data cleaning for the HR dataset, no duplicates were identified.
 
-Split Columns
+**Split Columns**
 To facilitate visualization, columns were split using a delimiter to extract the pertinent data.
 
-changed data types
+**changed data types**
 Adjustments to data types were made to align with the specific entries in each column. An example is the Business Travel column, where a split was performed to obtain the precise hierarchical values required for visualization.
 
-Replaced Values
+**Replaced Values**
 Values in the Job Satisfaction and Work-Life Balance columns underwent changes to introduce a more self-explanatory and improved hierarchical structure.
 
 
