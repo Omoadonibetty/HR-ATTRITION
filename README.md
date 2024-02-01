@@ -80,7 +80,8 @@ The data reveals significant attrition variations across job roles, work-life ba
 3. Strengthen HR practices: Focus on talent management, professional development, and creating an inclusive workplace.
 4. Regularly monitor and adapt: Establish ongoing data monitoring systems to track changes and adjust strategies accordingly.
 
+Addressing these recommendations will likely enhance employee retention, fostering a more stable and appealing environment for both current and potential employees.
+
+
 
 #**Visualization to be provided upon request**
-
-Addressing these recommendations will likely enhance employee retention, fostering a more stable and appealing environment for both current and potential employees.
